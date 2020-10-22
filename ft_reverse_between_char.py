@@ -46,4 +46,3 @@ def ft_reverse_between_char(char, stsr):
         return -1
     a, c = ft_find_char(char, stsr)
     return ft_reverse_str(stsr[a + 1:c])
-    
