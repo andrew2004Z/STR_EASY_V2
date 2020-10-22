@@ -1,4 +1,3 @@
-  
 def ft_count_char_in_str(d, b):
     c = 0
     for i in b:
